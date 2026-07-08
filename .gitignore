@@ -1,0 +1,17 @@
+# Build artifacts
+/build/
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Editor specific
+.vscode/
+*.swp
+*~
+
+# Test executables
+/tests/tests
