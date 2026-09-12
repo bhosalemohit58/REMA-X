@@ -40,4 +40,4 @@ REMA-X parses target structures locally, optimizing throughput without library r
 ### 📈 Proof-of-Concept: Byte Entropy Visual Telemetry
 Below is the visualization of the byte-entropy signature profiling generated during a direct target execution benchmark:
 
-<img src="https://https://github.com/bhosalemohit58/REMA-X/issues/1#issue-5431528932" width="100%" alt="REMA-X Entropy Telemetry Scan">
+<img src="https://github.com/bhosalemohit58/REMA-X/issues/1#issue-5431528932" width="100%" alt="REMA-X Entropy Telemetry Scan">
