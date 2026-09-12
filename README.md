@@ -37,3 +37,8 @@ REMA-X parses target structures locally, optimizing throughput without library r
 | `native_cpp23_core.elf` | 4.32 bits/byte | 0.42 ms | 0% (Clean / Trusted Structural Signatures) |
 | `upx_packed_payload.exe` | 7.95 bits/byte | 0.61 ms | 98% (High Threat Signal - Compressed Section) |
 | `obfuscated_vmlinuz.bin` | 7.84 bits/byte | 0.58 ms | 91% (High Threat Signal - Encryption Entropy) |
+### 📈 Proof-of-Concept: Byte Entropy Visual Telemetry
+Below is the visualization of the byte-entropy signature profiling generated during a direct target execution benchmark:
+
+![REMA-X Byte Entropy Telemetry Scan]
+(https://github.com/bhosalemohit58/REMA-X/issues/1#issue-5431528932)
